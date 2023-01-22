@@ -14,6 +14,9 @@ public class ToAutograph {
 		System.out.println("Success");
 
 	}
-	
+	private void success() {
+		System.out.println("hardwork");
+
+	}
 
 }
