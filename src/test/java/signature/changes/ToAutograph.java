@@ -18,5 +18,9 @@ public class ToAutograph {
 		System.out.println("hardwork");
 
 	}
+	private void need() {
+	System.out.println("basic things");
+
+	}
 
 }
